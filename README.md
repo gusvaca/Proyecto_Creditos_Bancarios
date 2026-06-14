@@ -135,7 +135,7 @@ Proyecto_Creditos_Bancarios/
 │
 ├── outputs/
 │   ├── visualizaciones
-│   └── resultados
+│   
 │
 └── informe/
     └── Informe_Final.pdf
