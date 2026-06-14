@@ -130,7 +130,7 @@ Proyecto_Creditos_Bancarios/
 ├── data/
 │   └── creditos_bancarios_5000.xlsx
 │
-├── notebooks/
+├── notebook/
 │   └── Analisis_Creditos_Bancarios.ipynb
 │
 ├── outputs/
