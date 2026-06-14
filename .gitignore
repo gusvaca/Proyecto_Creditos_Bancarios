@@ -1,0 +1,33 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Datos
+*.csv
+*.xlsx
+*.xls
+data/creditos_bancarios.csv
+
+# Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Modelos entrenados
+*.pkl
+*.joblib
